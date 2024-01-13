@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Docker and Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-sd-cnd.vercel.app/](https://portfolio-sd-cnd.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sumit-dey-portfolio.vercel.app/](https://sumit-dey-portfolio.vercel.app/)
 
 - 💬 Ask me about **Next js, Vite, MongoDb**
 
