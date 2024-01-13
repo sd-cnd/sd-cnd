@@ -1,4 +1,4 @@
-[![Alt Text](https://lh3.googleusercontent.com/pw/ABLVV85QyGF7f3upmdpDK06LlCpE9_R7KmJuigUw6QbkN6rf8RAFxHh3UBCR_slBUbpBxqlZEkq5ARc1fteJZ5Ga_Tdv0QvhV9B2ZNqhSCeLl2fhbvt-9I2bWAv4_tH6leziZy6qpqUKKU5cWVNCsW5DTLQ=w1293-h827-s-no-gm)]
+![Alt Text](https://lh3.googleusercontent.com/pw/ABLVV85QyGF7f3upmdpDK06LlCpE9_R7KmJuigUw6QbkN6rf8RAFxHh3UBCR_slBUbpBxqlZEkq5ARc1fteJZ5Ga_Tdv0QvhV9B2ZNqhSCeLl2fhbvt-9I2bWAv4_tH6leziZy6qpqUKKU5cWVNCsW5DTLQ=w1293-h827-s-no-gm)
 
 <h1 align="center">Hi 👋, I'm Sumit Dey</h1>
 <h3 align="center">I'm a passionate full-stack developer from India, skilled in both front-end and back-end technologies. With a commitment to staying updated, I bring creativity and technical expertise to every project. I value collaboration and effective communication, aiming to build impactful and scalable applications. Let's create the future together!</h3>
