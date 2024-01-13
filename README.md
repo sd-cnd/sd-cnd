@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)(https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Sumit Dey</h1>
 <h3 align="center">I'm a passionate full-stack developer from India, skilled in both front-end and back-end technologies. With a commitment to staying updated, I bring creativity and technical expertise to every project. I value collaboration and effective communication, aiming to build impactful and scalable applications. Let's create the future together!</h3>
